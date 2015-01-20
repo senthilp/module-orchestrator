@@ -21,7 +21,7 @@ orch.start(function(err, results) {
 });
 ```
 
-### Create
+### Create orchestrator
 
 Pass the input configuration to orchestrator with the below information
 
